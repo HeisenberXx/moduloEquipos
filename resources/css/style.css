@@ -212,7 +212,7 @@ button {
 }
 
 
-@media (width >=1280px) and (width <1440px) {
+@media screen and (width >=1280px) and (width <1440px) {
   body {
     margin: 0;
     padding: 0;
